@@ -1,0 +1,38 @@
+From Coursera Jhon´s Hopkins Universtiy course https://www.coursera.org/learn/data-scientists-tools
+
+
+1) R STUDIO - R Markdown
+
+1.How would you strike through some text?
+
+\strikethrough\
+~~strikethrough~~  -----> THIS IS THE ANSWER
+--strikethrough-- 
+
+
+2.What is the format for including a link that appears as blue text in your markdown document?
+
+![link.com](text that is shown)
+(text that is shown)[link.com]
+[text that is shown](link.com) -----> THIS IS THE ANSWER
+
+3.How do you produce bold text?
+
+
+**bold**   -----> THIS IS THE ANSWER
+_bold_
+~~bold~~
+
+4.How do you produce italicized text?
+
+__some text__
+**some text**
+*some text* -----> THIS IS THE ANSWER
+
+
+5.How do you produce your final document?
+
+Knit -----> THIS IS THE ANSWER
+Crochet
+Macrame
+
