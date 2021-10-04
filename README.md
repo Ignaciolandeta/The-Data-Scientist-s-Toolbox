@@ -6,3 +6,5 @@ Set up R, R-Studio, Github and other useful tools
 Understand the data, problems, and tools that data analysts use
 Explain essential study design concepts
 Create a Github repository
+
+Johns Hopkins University certificate: https://coursera.org/share/70b6c668072a0d2813b5c3d8a609329b
